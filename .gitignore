@@ -1,0 +1,4 @@
+#below data folder will be create when mongodb container runs
+/data  
+# below comment all node_module folders
+**/node_modules/
